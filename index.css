@@ -75,10 +75,10 @@ nav ul li a:hover{
 }
 .card1{
     padding-left: 200px;
-    width: 600px;
+    width: 650px;
 }
 .card2{
-    margin-left: 200px;
+    margin-left: 240px;
     padding-left: 2px;
     background-color: #1CC9D4;
     padding-top: 1px;
@@ -104,4 +104,29 @@ hr{
     height: 3px;
     background-color:#07767D;
 }
+/* //Projects */
+#one,#two#three{
+    height: 100px;
+    width:200px;
+}
+#three{
+    height: 100px;
+    width:200px;
+}
+#two{
+    height: 100px;
+    width:200px;
+}
+.card5{
+    margin-left: 200px;
+}
+.card3{
+    margin-left: 80px;
 
+}
+.card4{
+    margin-right: 250px;
+}
+.projects{
+    margin-top: 5px;
+}
