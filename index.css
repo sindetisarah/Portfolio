@@ -78,7 +78,12 @@ nav ul li a:hover{
     width: 600px;
 }
 .card2{
-    padding-left: 200px;
+    margin-left: 200px;
+    padding-left: 2px;
+    background-color: #1CC9D4;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    
 
 }
 .About{
