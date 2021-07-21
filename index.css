@@ -17,19 +17,29 @@ nav{
     color:#1CC9D4;
     letter-spacing: 5px;
     transition: 7s ease-in-out;
+    padding-right: 50%;
    
 
+}
+#greeting{
+    font-size: 25px;
 }
 .nav-links{
     width:30%;
     display: flex;
     justify-content: space-around;
+    padding-right: 315px;
+
+    
 
 
 }
 .nav-links a{
     color:#FFFFFF;
     text-decoration: none;
+    /* padding: 25px; */
+    
+    
 }
 .nav-links li{
     list-style: none;
@@ -59,8 +69,9 @@ nav ul li a:hover{
 .landing{
    padding-top: 10%;
     text-align:left;
+    /* position: center; */
     justify-content:center;
-    padding-left: 40%;
+    padding-left: 30%;
 }
 /* Styling my about Section */
 #mypic{
@@ -70,17 +81,19 @@ nav ul li a:hover{
 }
 #headingAbout{
     color:#07767D;
-    padding-left: 210px;
+    padding-left: 8%;
     
 }
 .card1{
-    padding-left: 200px;
-    width: 650px;
+    padding-left:17%;
+    width: 800px;
 }
 .card2{
-    margin-left: 240px;
+    margin-left: 360px;
+    
     padding-left: 2px;
     background-color: #1CC9D4;
+   
     padding-top: 1px;
     padding-bottom: 1px;
     
@@ -106,34 +119,26 @@ hr{
 }
 /* //Projects */
 #one,#two#three{
-    height: 100px;
-    width:200px;
+    height: 180px;
+    width:20rem;
 }
 #three{
-    height: 100px;
-    width:200px;
+    height: 180px;
+    width:20rem;
 }
 #two{
-    height: 100px;
-    width:200px;
+    height: 180px;
+    width:20rem;
 }
-.card5{
-    margin-left: 200px;
-}
-.card3{
-    margin-left: 80px;
 
-}
-.card4{
-    margin-right: 250px;
-}
 .projects{
     margin-top: 5px;
 }
 
 #dropdown{
     padding-top:25% ;
-    padding-left: 20%;
+    padding-left:20%;
+    text-align:center;
     color: #1CC9D4;
     
 }
@@ -175,4 +180,22 @@ hr{
     50% { top: -0.2em; }
     70% { top: -0.3em; }
     100% { top: 0; }
+}
+.container{
+    margin-left: 8%;
+    
+}
+#projectheading{
+    color:#07767D;
+    padding-left: 9%;
+    
+}
+#live{
+    margin-left:20%;
+}
+#github{
+    margin-left: 15%;
+}
+.card-title{
+    text-align:center;
 }
