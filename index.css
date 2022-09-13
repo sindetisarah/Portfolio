@@ -71,7 +71,7 @@ nav ul li a:hover{
     text-align:left;
     /* position: center; */
     justify-content:center;
-    padding-left: 30%;
+    padding-left: 40%;
 }
 /* Styling my about Section */
 #mypic{
@@ -85,14 +85,13 @@ nav ul li a:hover{
     
 }
 .card1{
-    padding-left:17%;
+    padding-left:18%;
     width: 800px;
 }
 .card2{
-    margin-left: 360px;
+    margin-left: 330px;
     
     padding-left: 2px;
-    background-color: #1CC9D4;
    
     padding-top: 1px;
     padding-bottom: 1px;
@@ -199,3 +198,68 @@ hr{
 .card-title{
     text-align:center;
 }
+#sunpic{
+    width:200px;
+    height:400px;
+}
+.car2{
+    margin-left: 3px;
+    
+   
+    padding-top: 1px;
+    padding-bottom: 1px;
+    
+
+}.work{
+    width: 80%;
+}
+#footer{
+    text-align: center;
+    margin-top: 50px;
+    background-color:#011932;
+  }
+  
+  footer>ul>li{
+    display: inline-block;
+    justify-content: space-around;
+    padding:20px;
+
+    text-align: center;
+    color:white;
+  
+  }
+  .footer-label p{
+    padding-top:10px;
+    font-size: 0.7em;
+    color:white;
+    font-weight: bolder;
+    
+  
+  }
+footer>a{
+      color:white;
+
+  }
+  h5{
+      color:#011932;
+      font-weight: bolder;
+  }
+  
+  .links-icon a{
+      color:white;
+  }
+  .footer-label{
+     background-color:#011932;
+  }
+ 
+  .contact-us{
+      background-size: cover;
+      background-repeat: no-repeat;
+
+  }
+  .carde{
+    padding-left:20%;
+    width: 800px
+
+  }
+  
